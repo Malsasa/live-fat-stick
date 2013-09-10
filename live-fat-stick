@@ -19,6 +19,7 @@
 # Authors:      Jigish Gohil <cyberorg@opensuse.org>
 # This script creates bootable openSUSE, Fedora or Ubuntu(or clones) live usb stick on fat partition
 #
+
 PATH=$PATH:/sbin:/usr/sbin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin
 umount_everything () {
 		sync
